@@ -1,0 +1,12 @@
+INSERT INTO skillbox_test.companies_goods (id, company_id, good_id) VALUES (1, 1, 1);
+INSERT INTO skillbox_test.companies_goods (id, company_id, good_id) VALUES (2, 1, 2);
+INSERT INTO skillbox_test.companies_goods (id, company_id, good_id) VALUES (3, 1, 3);
+INSERT INTO skillbox_test.companies_goods (id, company_id, good_id) VALUES (4, 1, 4);
+INSERT INTO skillbox_test.companies_goods (id, company_id, good_id) VALUES (5, 2, 5);
+INSERT INTO skillbox_test.companies_goods (id, company_id, good_id) VALUES (6, 2, 6);
+INSERT INTO skillbox_test.companies_goods (id, company_id, good_id) VALUES (7, 2, 7);
+INSERT INTO skillbox_test.companies_goods (id, company_id, good_id) VALUES (8, 2, 8);
+INSERT INTO skillbox_test.companies_goods (id, company_id, good_id) VALUES (9, 3, 9);
+INSERT INTO skillbox_test.companies_goods (id, company_id, good_id) VALUES (10, 3, 10);
+INSERT INTO skillbox_test.companies_goods (id, company_id, good_id) VALUES (11, 3, 11);
+INSERT INTO skillbox_test.companies_goods (id, company_id, good_id) VALUES (12, 3, 12);
